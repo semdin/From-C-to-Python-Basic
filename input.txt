@@ -1,0 +1,7 @@
+int a,b,c=0,d=5,e,f;
+int g = 3;
+int bxc = 5;
+int ad = 5;
+a = 3;
+b=c+(bxc*2)/7;
+b=c+(bxc*2*(b+c)/7);
